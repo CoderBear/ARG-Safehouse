@@ -1,3 +1,6 @@
+# built application files
+*.exe
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -15,6 +18,7 @@
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
+
 
 # =========================
 # Operating System Files
